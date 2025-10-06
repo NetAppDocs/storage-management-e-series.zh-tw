@@ -1,0 +1,32 @@
+---
+sidebar: sidebar 
+permalink: task-view-e-series.html 
+keywords: e-series, cluster, view, volumes, hosts, management ip, serial number, system id, capacity, allocated capacity 
+summary: 發現 E 系列系統後，您可以查看有關容量分佈、磁碟區和主機的詳細資訊。 
+---
+= 查看您的 E 系列系統
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+發現 E 系列系統後，您可以查看有關容量分佈、磁碟區和主機的詳細資訊。
+
+.所需的NetApp控制台角色
+組織管理員、資料夾或專案管理員、儲存管理員或系統健康專家。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解控制台存取角色。"^]
+
+.步驟
+. 從導覽選單中，選擇*儲存>管理*。
+. 在*系統*頁面上，選擇您想要檢視的 E 系列系統。
+. 選擇任何可用的選單選項來查看有關 E 系列系統的更多詳細資訊：
++
+** *概覽*：系統容量分佈（已指派、可用和未指派的容量）、磁碟區數、主機數等的詳細檢視。
+** *卷*：有關係統上卷的詳細信息，包括分配、RAID 級別、分配的容量等。
+** *主機*：有關向儲存系統上的磁碟區發送 I/O 的主機的詳細資訊。
+
+
+

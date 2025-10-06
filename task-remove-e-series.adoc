@@ -1,0 +1,29 @@
+---
+sidebar: sidebar 
+permalink: task-remove-e-series.html 
+keywords: e-series, remove, delete, remove e-series, delete cluster, delete working environment, remove working environment, remove system 
+summary: 如果您不再想從控制台管理 E 系列系統，請從NetApp控制台中刪除它。 
+---
+= 從NetApp控制台中移除 E 系列
+:hardbreaks:
+:allow-uri-read: 
+:nofooter: 
+:icons: font
+:linkattrs: 
+:imagesdir: ./media/
+
+
+[role="lead"]
+如果您不再想從NetApp控制台管理 E 系列系統，請將其刪除。
+
+.所需的NetApp控制台角色
+組織管理員、資料夾或專案管理員或儲存管理員。 link:https://docs.netapp.com/us-en/bluexp-setup-admin/reference-iam-predefined-roles.html["了解NetApp控制台存取角色。"^]
+
+刪除NetApp控制台系統不會影響 E 系列系統。您可以隨時重新發現它。
+
+.步驟
+. 從導覽選單中，選擇*儲存>管理*。
+. 在*系統*頁面上，選擇 E 系列系統。
+. 選擇選單圖示並選擇*從工作區中刪除*。
+. 選擇*刪除*進行確認。
+
