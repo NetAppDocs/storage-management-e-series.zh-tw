@@ -1,9 +1,9 @@
 ---
 indexpage:
   title: 使用BlueXP 的E 系列管理
-  summary: 從NetApp控制台發現您的 E 系列系統，以獲得混合多雲資料的完整視圖。
+  summary: 從NetApp Console發現您的 E 系列系統，以獲得混合多雲資料的完整視圖。
   keywords: bluexp-family, documentation, e-series, cloud, console-family, storage-management-family
-  lead: 從NetApp控制台發現您的 E 系列系統，以獲得混合多雲資料的完整視圖。
+  lead: 從NetApp Console發現您的 E 系列系統，以獲得混合多雲資料的完整視圖。
   tiles:
   - title: 開始
     links:
@@ -13,17 +13,17 @@ indexpage:
     links:
     - title: 查看您的 E 系列系統
       url: "/task-view-e-series.html"
-    - title: 從NetApp控制台中刪除系統
+    - title: 從NetApp Console中刪除系統
       url: "/task-remove-e-series.html"
   - title: 相關連結
     links:
-    - title: 用於NetApp控制台之外的管理的 E 系列文檔
+    - title: 用於NetApp Console之外的管理的 E 系列文檔
       url: https://docs.netapp.com/us-en/e-series-family/
   - title: 部落格和社區
     links:
-    - title: NetApp控制台
+    - title: NetApp Console
       url: https://www.netapp.com/console
-    - title: NetApp資料服務
+    - title: NetApp Data Services
       url: https://www.netapp.com/data-services/
     - title: NetApp社群
       url: https://community.netapp.com/
